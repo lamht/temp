@@ -1,0 +1,288 @@
+[{
+	"kvkNumber": "68750110",
+	"branchNumber": "000037178598",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "Test BV Donald",
+		"currentStatutoryNames": ["Test BV Donald"],
+		"currentTradeNames": ["Test BV Donald"],
+		"shortBusinessName": "Test BV Donald"
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": true,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Zwartewater",
+		"houseNumber": "12",
+		"houseNumberAddition": "A",
+		"postalCode": "3514BN",
+		"city": "Utrecht",
+		"country": "Nederland"
+	}]
+},
+{
+	"kvkNumber": "68750110",
+	"rsin": "857587973",
+	"tradeNames": {
+		"shortBusinessName": "Test BV Donald",
+		"currentStatutoryNames": ["Test BV Donald"]
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": true,
+	"isBranch": false,
+	"isMainBranch": false
+},
+{
+	"kvkNumber": "68750110",
+	"branchNumber": "000037178601",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "Test BV Donald Nevenvestiging",
+		"shortBusinessName": "Test BV Donald",
+		"currentTradeNames": ["Test BV Donald Nevenvestiging"],
+		"currentStatutoryNames": ["Test BV Donald"]
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": false,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Le Thanh Ton",
+		"houseNumber": "50",
+		"houseNumberAddition": "A",
+		"postalCode": "1234NT",
+		"city": "Nha Trang",
+		"country": "VietNam"
+	}]
+},
+{
+	"kvkNumber": "68750179",
+	"branchNumber": "000037178601",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "Test Kikker",
+		"shortBusinessName": "Test Kikker",
+		"currentTradeNames": ["Test Kikker"],
+		"currentStatutoryNames": ["Test Kikker"]
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": false,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Baarnsche dijk",
+		"houseNumber": "6",
+		"houseNumberAddition": "A1",
+		"postalCode": "3741LR",
+		"city": "BAARN",
+		"country": "Nederland"
+	}]
+},
+{
+	"kvkNumber": "67102921",
+	"branchNumber": "000037178598",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "Datri B.V.",
+		"currentStatutoryNames": ["Datri B.V."],
+		"currentTradeNames": ["Datri B.V."],
+		"shortBusinessName": "Datri B.V."
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": true,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Rivium Boulevard",
+		"houseNumber": "301",
+		"houseNumberAddition": "",
+		"postalCode": "2909LK",
+		"city": "CAPELLE AAN DEN IJSSEL",
+		"country": "Nederland"
+	}]
+},
+{
+	"kvkNumber": "24347810",
+	"branchNumber": "000037178598",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "FunX B.V",
+		"currentStatutoryNames": ["FunX B.V"],
+		"currentTradeNames": ["FunX B.V"],
+		"shortBusinessName": "FunX B.V"
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": true,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Lloydstraat",
+		"houseNumber": "21",
+		"houseNumberAddition": "",
+		"postalCode": "3024EA",
+		"city": "ROTTERDAM",
+		"country": "Nederland"
+	}]
+},
+{
+	"kvkNumber": "34285499",
+	"branchNumber": "000037178598",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "HDI Global SE, the Netherlands",
+		"currentStatutoryNames": ["HDI Global SE, the Netherlands"],
+		"currentTradeNames": ["HDI Global SE, the Netherlands"],
+		"shortBusinessName": "HDI Global SE, the Netherlands"
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": true,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Haaksbergweg",
+		"houseNumber": "75",
+		"houseNumberAddition": "",
+		"postalCode": "1101BR",
+		"city": "AMSTERDAM",
+		"country": "Nederland"
+	}]
+},
+{
+	"kvkNumber": "63546434",
+	"branchNumber": "000037178598",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "InPetto Jeugd-GGZ",
+		"currentStatutoryNames": ["InPetto Jeugd-GGZ"],
+		"currentTradeNames": ["InPetto Jeugd-GGZ"],
+		"shortBusinessName": "InPetto Jeugd-GGZ"
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": true,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Mauritsstraat",
+		"houseNumber": "1",
+		"houseNumberAddition": "A1",
+		"postalCode": "4811EN",
+		"city": "BREDA",
+		"country": "Nederland"
+	}]
+},
+{
+	"kvkNumber": "34111344",
+	"branchNumber": "000037178598",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "Fliteline B.V.",
+		"currentStatutoryNames": ["Fliteline B.V."],
+		"currentTradeNames": ["Fliteline B.V."],
+		"shortBusinessName": "Fliteline B.V."
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": true,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Walaardt Sacrestraat",
+		"houseNumber": "401",
+		"houseNumberAddition": "",
+		"postalCode": "1117BM",
+		"city": "SCHIPHOL",
+		"country": "Nederland"
+	}]
+},
+{
+	"kvkNumber": "24348845",
+	"branchNumber": "000037178598",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "Rotterdamse Mobiliteit Centrale RMC B.V.",
+		"currentStatutoryNames": ["Rotterdamse Mobiliteit Centrale RMC B.V."],
+		"currentTradeNames": ["Rotterdamse Mobiliteit Centrale RMC B.V."],
+		"shortBusinessName": "Rotterdamse Mobiliteit Centrale RMC B.V."
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": true,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Keenstraat",
+		"houseNumber": "46",
+		"houseNumberAddition": "",
+		"postalCode": "3044CD",
+		"city": "ROTTERDAM",
+		"country": "Nederland"
+	}]
+},
+{
+	"kvkNumber": "24421148",
+	"branchNumber": "000037178598",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "ORTEC Finance B.V.",
+		"currentStatutoryNames": ["ORTEC Finance B.V."],
+		"currentTradeNames": ["ORTEC Finance B.V."],
+		"shortBusinessName": "ORTEC Finance B.V."
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": true,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Naritaweg",
+		"houseNumber": "51",
+		"houseNumberAddition": "",
+		"postalCode": "1043BP",
+		"city": "AMSTERDAM",
+		"country": "Nederland"
+	}]
+},
+{
+	"kvkNumber": "24072680",
+	"branchNumber": "000037178598",
+	"rsin": "857587973",
+	"tradeNames": {
+		"businessName": "Stena Line B.V.",
+		"currentStatutoryNames": ["Stena Line B.V."],
+		"currentTradeNames": ["Stena Line B.V."],
+		"shortBusinessName": "Stena Line B.V."
+	},
+	"hasEntryInBusinessRegister": true,
+	"hasNonMailingIndication": true,
+	"isLegalPerson": false,
+	"isBranch": true,
+	"isMainBranch": true,
+	"addresses": [{
+		"type": "vestigingsadres",
+		"street": "Stationsweg",
+		"houseNumber": "10",
+		"houseNumberAddition": "",
+		"postalCode": "3151HS",
+		"city": "HOEK VAN HOLLAND",
+		"country": "Nederland"
+	}]
+}]
